@@ -1,0 +1,7 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "main": "src/logger.ts",
+  "types": "src/logger.ts",
+  "type": "module"
+}
